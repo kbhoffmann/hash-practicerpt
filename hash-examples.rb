@@ -13,3 +13,10 @@ animal = {
   "weight" = 11,
   "hungry" = true
 }
+
+customer = {
+  "sex" = "male",
+  "age" = 45,
+  "married" = true,
+  "kids" = false,
+}
